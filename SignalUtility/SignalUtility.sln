@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SignalUtility", "SignalUtility\SignalUtility.vcxproj", "{3A6F5523-CF99-433D-99AA-4BA35D5ED5AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A6F5523-CF99-433D-99AA-4BA35D5ED5AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A6F5523-CF99-433D-99AA-4BA35D5ED5AC}.Debug|Win32.Build.0 = Debug|Win32
+		{3A6F5523-CF99-433D-99AA-4BA35D5ED5AC}.Release|Win32.ActiveCfg = Release|Win32
+		{3A6F5523-CF99-433D-99AA-4BA35D5ED5AC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
